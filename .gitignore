@@ -1,7 +1,12 @@
-*.out
+# C 编译产物
 *.o
+*.out
 *.exe
 a.out
+*.dSYM/
+
+# IDE 配置
 .vscode/
 .idea/
 *.swp
+*~
